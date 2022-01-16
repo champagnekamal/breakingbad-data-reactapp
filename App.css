@@ -1,0 +1,32 @@
+* {
+  background-color: lightblue;
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+}
+.container{
+ border: 2px solid;
+ justify-content: center;
+ width: 90%;
+ margin: 12px;
+ margin-left: 5%;
+}
+
+
+h2 {
+  font-size: large;
+  color: blueviolet;
+  font-weight: 100;
+ 
+}
+h1 {
+  text-decoration: underline;
+  
+}
+h3 {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: grey;
+  font-weight: 300;
+}
+img {
+  width: 200px;
+}
